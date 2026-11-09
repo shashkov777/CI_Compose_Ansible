@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+yookassa
+gspread
+google-auth
+schedule
